@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv13723&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv13723" /> </p>
 
-<p align="left"> <a href="https://twitter.com/dhruv13723" target="blank"><img src="https://img.shields.io/twitter/follow/dhruv13723?logo=twitter&style=for-the-badge" alt="dhruv13723" /></a> </p>
+<p align="left"> <a href="https://twitter.com/bitwisedhruv" target="blank"><img src="https://img.shields.io/twitter/follow/dhruv13723?logo=twitter&style=for-the-badge" alt="dhruv13723" /></a> </p>
 
 - 🔭 I’m currently working on [Full-stack TikTok clone](https://github.com/CodeMonk643/tiktok-clone)
 
