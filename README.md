@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Dhruv</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate flutter developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv13723&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv13723" /> </p>
@@ -19,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dhruv13723" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhruv13723" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dhruv ." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv ." height="30" width="40" /></a>
-<a href="https://instagram.com/dhruuv_6514" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhruuv_6514" height="30" width="40" /></a>
+<a href="https://twitter.com/bitwisedhruv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhruv13723" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bitwisedhruv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv ." height="30" width="40" /></a>
+<a href="https://instagram.com/bitwisedhruv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhruuv_6514" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/dhruv13723" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhruv13723" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dhruv_1323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhruv_1323" height="30" width="40" /></a>
 <a href="https://discord.gg/2274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2274" height="30" width="40" /></a>
