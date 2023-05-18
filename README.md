@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Mobile app development**
 
-- 📫 How to reach me **dhruv13723@gmail.com**
+- 📫 How to reach me **dhruvpraveen80@gmail.com**
 
 - ⚡ Fun fact **I am funny!**
 
