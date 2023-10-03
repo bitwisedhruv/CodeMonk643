@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/bitwisedhruv" target="blank"><img src="https://img.shields.io/twitter/follow/bitwisedhruv?logo=twitter&style=for-the-badge" alt="dhruv13723" /></a> </p>
 
-- 🔭 I’m currently working on [Full-stack TikTok clone](https://github.com/CodeMonk643/tiktok-clone)
+- 🔭 I’m currently working on [A.L.L.E.N.](https://github.com/bitwisedhruv/ALLEN)
 
 - 🌱 I’m currently learning **Flutter, DSA, Machine Learning**
 
