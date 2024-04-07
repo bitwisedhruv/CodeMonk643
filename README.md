@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/bitwisedhruv" target="blank"><img src="https://img.shields.io/twitter/follow/bitwisedhruv?logo=twitter&style=for-the-badge" alt="dhruv13723" /></a> </p>
 
-- 🔭 I’m currently working on [A.L.L.E.N.](https://github.com/bitwisedhruv/ALLEN)
+- 🔭 I’m currently working on [Basica](https://github.com/bitwisedhruv/basica/)
 
-- 🌱 I’m currently learning **Flutter, DSA, Machine Learning**
+- 🌱 I’m currently learning **Flutter, Machine Learning**
 
 - 💬 Ask me about **Mobile app development**
 
